@@ -1,2 +1,2 @@
 # HybridAppLatestTemplate
-Hybrid App Latest Template with IONIC 8, Angular 9, Capacitor 6
+Hybrid App Latest Template with IONIC 8, Angular 19, Capacitor 6
